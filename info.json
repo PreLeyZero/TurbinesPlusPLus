@@ -1,0 +1,14 @@
+{
+    "name": "turbinesplusplus",
+    "version": "0.1.7",
+    "title": "Turbines ++",
+    "author": "PreLeyZero",
+    "factorio_version": "1.1",
+    "description": "Tired of big nuclear turbine setups? This mod adds new turbines and usage for super/extreme heated steam. With the full setup you will get up to 112.5 MW of power out of 100 MW heat.",
+    "dependencies": [
+        "base >= 1.0.0",
+        "Squeak Through",
+        "?248k",
+        "?space-exploration"
+    ]
+}
